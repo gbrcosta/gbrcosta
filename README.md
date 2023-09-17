@@ -1,4 +1,11 @@
-### Hi there 👋
+### Você chegou ao submundo do Gabriel Costa
+
+<a href="https://github.com/gbrcosta">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gbrcosta" />
+</a>
+<a href="https://github.com/gbrcosta">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrcosta&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **gbrcosta/gbrcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
